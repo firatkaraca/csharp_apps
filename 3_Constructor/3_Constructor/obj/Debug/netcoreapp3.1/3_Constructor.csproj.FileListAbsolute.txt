@@ -1,0 +1,13 @@
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\bin\Debug\netcoreapp3.1\3_Constructor.exe
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\bin\Debug\netcoreapp3.1\3_Constructor.deps.json
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\bin\Debug\netcoreapp3.1\3_Constructor.runtimeconfig.json
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\bin\Debug\netcoreapp3.1\3_Constructor.runtimeconfig.dev.json
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\bin\Debug\netcoreapp3.1\3_Constructor.dll
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\bin\Debug\netcoreapp3.1\3_Constructor.pdb
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\obj\Debug\netcoreapp3.1\3_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\obj\Debug\netcoreapp3.1\3_Constructor.AssemblyInfoInputs.cache
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\obj\Debug\netcoreapp3.1\3_Constructor.AssemblyInfo.cs
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\obj\Debug\netcoreapp3.1\3_Constructor.dll
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\obj\Debug\netcoreapp3.1\3_Constructor.pdb
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\obj\Debug\netcoreapp3.1\3_Constructor.genruntimeconfig.cache
+C:\Users\firat\source\repos\3_Constructor\3_Constructor\obj\Debug\netcoreapp3.1\3_Constructor.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\31_FormKenarlığı\31_FormKenarlığı\bin\Debug\31_FormKenarlığı.exe.config
+C:\Users\firat\source\repos\31_FormKenarlığı\31_FormKenarlığı\bin\Debug\31_FormKenarlığı.exe
+C:\Users\firat\source\repos\31_FormKenarlığı\31_FormKenarlığı\bin\Debug\31_FormKenarlığı.pdb
+C:\Users\firat\source\repos\31_FormKenarlığı\31_FormKenarlığı\obj\Debug\31_FormKenarlığı.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\31_FormKenarlığı\31_FormKenarlığı\obj\Debug\_31_FormKenarlığı.Form1.resources
+C:\Users\firat\source\repos\31_FormKenarlığı\31_FormKenarlığı\obj\Debug\_31_FormKenarlığı.Properties.Resources.resources
+C:\Users\firat\source\repos\31_FormKenarlığı\31_FormKenarlığı\obj\Debug\31_FormKenarlığı.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\31_FormKenarlığı\31_FormKenarlığı\obj\Debug\31_FormKenarlığı.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\31_FormKenarlığı\31_FormKenarlığı\obj\Debug\31_FormKenarlığı.exe
+C:\Users\firat\source\repos\31_FormKenarlığı\31_FormKenarlığı\obj\Debug\31_FormKenarlığı.pdb

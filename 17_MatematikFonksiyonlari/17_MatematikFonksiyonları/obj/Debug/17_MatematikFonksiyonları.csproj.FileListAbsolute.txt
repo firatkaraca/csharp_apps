@@ -1,0 +1,9 @@
+C:\Users\firat\source\repos\17_MatematikFonksiyonları\17_MatematikFonksiyonları\bin\Debug\17_MatematikFonksiyonları.exe.config
+C:\Users\firat\source\repos\17_MatematikFonksiyonları\17_MatematikFonksiyonları\bin\Debug\17_MatematikFonksiyonları.exe
+C:\Users\firat\source\repos\17_MatematikFonksiyonları\17_MatematikFonksiyonları\bin\Debug\17_MatematikFonksiyonları.pdb
+C:\Users\firat\source\repos\17_MatematikFonksiyonları\17_MatematikFonksiyonları\obj\Debug\_17_MatematikFonksiyonları.Form1.resources
+C:\Users\firat\source\repos\17_MatematikFonksiyonları\17_MatematikFonksiyonları\obj\Debug\_17_MatematikFonksiyonları.Properties.Resources.resources
+C:\Users\firat\source\repos\17_MatematikFonksiyonları\17_MatematikFonksiyonları\obj\Debug\17_MatematikFonksiyonları.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\17_MatematikFonksiyonları\17_MatematikFonksiyonları\obj\Debug\17_MatematikFonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\17_MatematikFonksiyonları\17_MatematikFonksiyonları\obj\Debug\17_MatematikFonksiyonları.exe
+C:\Users\firat\source\repos\17_MatematikFonksiyonları\17_MatematikFonksiyonları\obj\Debug\17_MatematikFonksiyonları.pdb

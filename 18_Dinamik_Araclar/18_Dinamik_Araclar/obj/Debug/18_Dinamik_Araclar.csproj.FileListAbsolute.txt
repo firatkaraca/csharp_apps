@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\18_Dinamik_Araclar\18_Dinamik_Araclar\bin\Debug\18_Dinamik_Araclar.exe.config
+C:\Users\firat\source\repos\18_Dinamik_Araclar\18_Dinamik_Araclar\bin\Debug\18_Dinamik_Araclar.exe
+C:\Users\firat\source\repos\18_Dinamik_Araclar\18_Dinamik_Araclar\bin\Debug\18_Dinamik_Araclar.pdb
+C:\Users\firat\source\repos\18_Dinamik_Araclar\18_Dinamik_Araclar\obj\Debug\18_Dinamik_Araclar.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\18_Dinamik_Araclar\18_Dinamik_Araclar\obj\Debug\_18_Dinamik_Araclar.Form1.resources
+C:\Users\firat\source\repos\18_Dinamik_Araclar\18_Dinamik_Araclar\obj\Debug\_18_Dinamik_Araclar.Properties.Resources.resources
+C:\Users\firat\source\repos\18_Dinamik_Araclar\18_Dinamik_Araclar\obj\Debug\18_Dinamik_Araclar.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\18_Dinamik_Araclar\18_Dinamik_Araclar\obj\Debug\18_Dinamik_Araclar.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\18_Dinamik_Araclar\18_Dinamik_Araclar\obj\Debug\18_Dinamik_Araclar.exe
+C:\Users\firat\source\repos\18_Dinamik_Araclar\18_Dinamik_Araclar\obj\Debug\18_Dinamik_Araclar.pdb

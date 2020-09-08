@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\21_Metin_Belgesi_Oluşturma\21_Metin_Belgesi_Oluşturma\bin\Debug\21_Metin_Belgesi_Oluşturma.exe.config
+C:\Users\firat\source\repos\21_Metin_Belgesi_Oluşturma\21_Metin_Belgesi_Oluşturma\bin\Debug\21_Metin_Belgesi_Oluşturma.exe
+C:\Users\firat\source\repos\21_Metin_Belgesi_Oluşturma\21_Metin_Belgesi_Oluşturma\bin\Debug\21_Metin_Belgesi_Oluşturma.pdb
+C:\Users\firat\source\repos\21_Metin_Belgesi_Oluşturma\21_Metin_Belgesi_Oluşturma\obj\Debug\_21_Metin_Belgesi_Oluşturma.Form1.resources
+C:\Users\firat\source\repos\21_Metin_Belgesi_Oluşturma\21_Metin_Belgesi_Oluşturma\obj\Debug\_21_Metin_Belgesi_Oluşturma.Properties.Resources.resources
+C:\Users\firat\source\repos\21_Metin_Belgesi_Oluşturma\21_Metin_Belgesi_Oluşturma\obj\Debug\21_Metin_Belgesi_Oluşturma.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\21_Metin_Belgesi_Oluşturma\21_Metin_Belgesi_Oluşturma\obj\Debug\21_Metin_Belgesi_Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\21_Metin_Belgesi_Oluşturma\21_Metin_Belgesi_Oluşturma\obj\Debug\21_Metin_Belgesi_Oluşturma.exe
+C:\Users\firat\source\repos\21_Metin_Belgesi_Oluşturma\21_Metin_Belgesi_Oluşturma\obj\Debug\21_Metin_Belgesi_Oluşturma.pdb
+C:\Users\firat\source\repos\21_Metin_Belgesi_Oluşturma\21_Metin_Belgesi_Oluşturma\obj\Debug\21_Metin_Belgesi_Oluşturma.csprojAssemblyReference.cache

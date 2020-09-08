@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\12_Formlar_Arası_Veri_Taşıma\12_Formlar_Arası_Veri_Taşıma\bin\Debug\12_Formlar_Arası_Veri_Taşıma.exe.config
+C:\Users\firat\source\repos\12_Formlar_Arası_Veri_Taşıma\12_Formlar_Arası_Veri_Taşıma\bin\Debug\12_Formlar_Arası_Veri_Taşıma.exe
+C:\Users\firat\source\repos\12_Formlar_Arası_Veri_Taşıma\12_Formlar_Arası_Veri_Taşıma\bin\Debug\12_Formlar_Arası_Veri_Taşıma.pdb
+C:\Users\firat\source\repos\12_Formlar_Arası_Veri_Taşıma\12_Formlar_Arası_Veri_Taşıma\obj\Debug\_12_Formlar_Arası_Veri_Taşıma.Form1.resources
+C:\Users\firat\source\repos\12_Formlar_Arası_Veri_Taşıma\12_Formlar_Arası_Veri_Taşıma\obj\Debug\_12_Formlar_Arası_Veri_Taşıma.Form2.resources
+C:\Users\firat\source\repos\12_Formlar_Arası_Veri_Taşıma\12_Formlar_Arası_Veri_Taşıma\obj\Debug\_12_Formlar_Arası_Veri_Taşıma.Properties.Resources.resources
+C:\Users\firat\source\repos\12_Formlar_Arası_Veri_Taşıma\12_Formlar_Arası_Veri_Taşıma\obj\Debug\12_Formlar_Arası_Veri_Taşıma.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\12_Formlar_Arası_Veri_Taşıma\12_Formlar_Arası_Veri_Taşıma\obj\Debug\12_Formlar_Arası_Veri_Taşıma.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\12_Formlar_Arası_Veri_Taşıma\12_Formlar_Arası_Veri_Taşıma\obj\Debug\12_Formlar_Arası_Veri_Taşıma.exe
+C:\Users\firat\source\repos\12_Formlar_Arası_Veri_Taşıma\12_Formlar_Arası_Veri_Taşıma\obj\Debug\12_Formlar_Arası_Veri_Taşıma.pdb

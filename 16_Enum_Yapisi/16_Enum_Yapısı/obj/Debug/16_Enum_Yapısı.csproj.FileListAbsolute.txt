@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\16_Enum_Yapısı\16_Enum_Yapısı\bin\Debug\16_Enum_Yapısı.exe.config
+C:\Users\firat\source\repos\16_Enum_Yapısı\16_Enum_Yapısı\bin\Debug\16_Enum_Yapısı.exe
+C:\Users\firat\source\repos\16_Enum_Yapısı\16_Enum_Yapısı\bin\Debug\16_Enum_Yapısı.pdb
+C:\Users\firat\source\repos\16_Enum_Yapısı\16_Enum_Yapısı\obj\Debug\16_Enum_Yapısı.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\16_Enum_Yapısı\16_Enum_Yapısı\obj\Debug\_16_Enum_Yapısı.Form1.resources
+C:\Users\firat\source\repos\16_Enum_Yapısı\16_Enum_Yapısı\obj\Debug\_16_Enum_Yapısı.Properties.Resources.resources
+C:\Users\firat\source\repos\16_Enum_Yapısı\16_Enum_Yapısı\obj\Debug\16_Enum_Yapısı.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\16_Enum_Yapısı\16_Enum_Yapısı\obj\Debug\16_Enum_Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\16_Enum_Yapısı\16_Enum_Yapısı\obj\Debug\16_Enum_Yapısı.exe
+C:\Users\firat\source\repos\16_Enum_Yapısı\16_Enum_Yapısı\obj\Debug\16_Enum_Yapısı.pdb

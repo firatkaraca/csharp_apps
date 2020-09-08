@@ -1,0 +1,12 @@
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\bin\Debug\4_Timer_Kulanımı.exe.config
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\bin\Debug\4_Timer_Kulanımı.exe
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\bin\Debug\4_Timer_Kulanımı.pdb
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\obj\Debug\4_Timer_Kulanımı.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\obj\Debug\_4_Timer_Kulanımı.Form1.resources
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\obj\Debug\_4_Timer_Kulanımı.Properties.Resources.resources
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\obj\Debug\4_Timer_Kulanımı.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\obj\Debug\4_Timer_Kulanımı.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\obj\Debug\4_Timer_Kulanımı.exe
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\obj\Debug\4_Timer_Kulanımı.pdb
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\obj\Debug\_4_Timer_Kulanımı.Form2.resources
+C:\Users\firat\source\repos\4_Timer_Kulanımı\4_Timer_Kulanımı\obj\Debug\_4_Timer_Kulanımı.Form3.resources

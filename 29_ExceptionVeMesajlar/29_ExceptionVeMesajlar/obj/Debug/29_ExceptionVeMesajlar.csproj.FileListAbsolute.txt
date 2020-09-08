@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\29_ExceptionVeMesajlar\29_ExceptionVeMesajlar\bin\Debug\29_ExceptionVeMesajlar.exe.config
+C:\Users\firat\source\repos\29_ExceptionVeMesajlar\29_ExceptionVeMesajlar\bin\Debug\29_ExceptionVeMesajlar.exe
+C:\Users\firat\source\repos\29_ExceptionVeMesajlar\29_ExceptionVeMesajlar\bin\Debug\29_ExceptionVeMesajlar.pdb
+C:\Users\firat\source\repos\29_ExceptionVeMesajlar\29_ExceptionVeMesajlar\obj\Debug\29_ExceptionVeMesajlar.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\29_ExceptionVeMesajlar\29_ExceptionVeMesajlar\obj\Debug\_29_ExceptionVeMesajlar.Form1.resources
+C:\Users\firat\source\repos\29_ExceptionVeMesajlar\29_ExceptionVeMesajlar\obj\Debug\_29_ExceptionVeMesajlar.Properties.Resources.resources
+C:\Users\firat\source\repos\29_ExceptionVeMesajlar\29_ExceptionVeMesajlar\obj\Debug\29_ExceptionVeMesajlar.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\29_ExceptionVeMesajlar\29_ExceptionVeMesajlar\obj\Debug\29_ExceptionVeMesajlar.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\29_ExceptionVeMesajlar\29_ExceptionVeMesajlar\obj\Debug\29_ExceptionVeMesajlar.exe
+C:\Users\firat\source\repos\29_ExceptionVeMesajlar\29_ExceptionVeMesajlar\obj\Debug\29_ExceptionVeMesajlar.pdb

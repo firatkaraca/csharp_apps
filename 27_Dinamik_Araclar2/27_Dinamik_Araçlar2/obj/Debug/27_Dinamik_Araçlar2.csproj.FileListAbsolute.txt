@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\27_Dinamik_Araçlar2\27_Dinamik_Araçlar2\bin\Debug\27_Dinamik_Araçlar2.exe.config
+C:\Users\firat\source\repos\27_Dinamik_Araçlar2\27_Dinamik_Araçlar2\bin\Debug\27_Dinamik_Araçlar2.exe
+C:\Users\firat\source\repos\27_Dinamik_Araçlar2\27_Dinamik_Araçlar2\bin\Debug\27_Dinamik_Araçlar2.pdb
+C:\Users\firat\source\repos\27_Dinamik_Araçlar2\27_Dinamik_Araçlar2\obj\Debug\27_Dinamik_Araçlar2.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\27_Dinamik_Araçlar2\27_Dinamik_Araçlar2\obj\Debug\_27_Dinamik_Araçlar2.Form1.resources
+C:\Users\firat\source\repos\27_Dinamik_Araçlar2\27_Dinamik_Araçlar2\obj\Debug\_27_Dinamik_Araçlar2.Properties.Resources.resources
+C:\Users\firat\source\repos\27_Dinamik_Araçlar2\27_Dinamik_Araçlar2\obj\Debug\27_Dinamik_Araçlar2.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\27_Dinamik_Araçlar2\27_Dinamik_Araçlar2\obj\Debug\27_Dinamik_Araçlar2.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\27_Dinamik_Araçlar2\27_Dinamik_Araçlar2\obj\Debug\27_Dinamik_Araçlar2.exe
+C:\Users\firat\source\repos\27_Dinamik_Araçlar2\27_Dinamik_Araçlar2\obj\Debug\27_Dinamik_Araçlar2.pdb

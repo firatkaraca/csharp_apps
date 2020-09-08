@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\7_ContextMenu_Strip\7_ContextMenu_Strip\bin\Debug\7_ContextMenu_Strip.exe.config
+C:\Users\firat\source\repos\7_ContextMenu_Strip\7_ContextMenu_Strip\bin\Debug\7_ContextMenu_Strip.exe
+C:\Users\firat\source\repos\7_ContextMenu_Strip\7_ContextMenu_Strip\bin\Debug\7_ContextMenu_Strip.pdb
+C:\Users\firat\source\repos\7_ContextMenu_Strip\7_ContextMenu_Strip\obj\Debug\_7_ContextMenu_Strip.Form1.resources
+C:\Users\firat\source\repos\7_ContextMenu_Strip\7_ContextMenu_Strip\obj\Debug\_7_ContextMenu_Strip.Properties.Resources.resources
+C:\Users\firat\source\repos\7_ContextMenu_Strip\7_ContextMenu_Strip\obj\Debug\7_ContextMenu_Strip.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\7_ContextMenu_Strip\7_ContextMenu_Strip\obj\Debug\7_ContextMenu_Strip.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\7_ContextMenu_Strip\7_ContextMenu_Strip\obj\Debug\7_ContextMenu_Strip.exe
+C:\Users\firat\source\repos\7_ContextMenu_Strip\7_ContextMenu_Strip\obj\Debug\7_ContextMenu_Strip.pdb
+C:\Users\firat\source\repos\7_ContextMenu_Strip\7_ContextMenu_Strip\obj\Debug\7_ContextMenu_Strip.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\9_Random_Komutu\9_Random_Komutu\bin\Debug\9_Random_Komutu.exe.config
+C:\Users\firat\source\repos\9_Random_Komutu\9_Random_Komutu\bin\Debug\9_Random_Komutu.exe
+C:\Users\firat\source\repos\9_Random_Komutu\9_Random_Komutu\bin\Debug\9_Random_Komutu.pdb
+C:\Users\firat\source\repos\9_Random_Komutu\9_Random_Komutu\obj\Debug\9_Random_Komutu.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\9_Random_Komutu\9_Random_Komutu\obj\Debug\_9_Random_Komutu.Form1.resources
+C:\Users\firat\source\repos\9_Random_Komutu\9_Random_Komutu\obj\Debug\_9_Random_Komutu.Properties.Resources.resources
+C:\Users\firat\source\repos\9_Random_Komutu\9_Random_Komutu\obj\Debug\9_Random_Komutu.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\9_Random_Komutu\9_Random_Komutu\obj\Debug\9_Random_Komutu.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\9_Random_Komutu\9_Random_Komutu\obj\Debug\9_Random_Komutu.exe
+C:\Users\firat\source\repos\9_Random_Komutu\9_Random_Komutu\obj\Debug\9_Random_Komutu.pdb

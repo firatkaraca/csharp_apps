@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\5_ProgressBar\5_ProgressBar\bin\Debug\5_ProgressBar.exe.config
+C:\Users\firat\source\repos\5_ProgressBar\5_ProgressBar\bin\Debug\5_ProgressBar.exe
+C:\Users\firat\source\repos\5_ProgressBar\5_ProgressBar\bin\Debug\5_ProgressBar.pdb
+C:\Users\firat\source\repos\5_ProgressBar\5_ProgressBar\obj\Debug\5_ProgressBar.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\5_ProgressBar\5_ProgressBar\obj\Debug\_5_ProgressBar.Form1.resources
+C:\Users\firat\source\repos\5_ProgressBar\5_ProgressBar\obj\Debug\_5_ProgressBar.Properties.Resources.resources
+C:\Users\firat\source\repos\5_ProgressBar\5_ProgressBar\obj\Debug\5_ProgressBar.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\5_ProgressBar\5_ProgressBar\obj\Debug\5_ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\5_ProgressBar\5_ProgressBar\obj\Debug\5_ProgressBar.exe
+C:\Users\firat\source\repos\5_ProgressBar\5_ProgressBar\obj\Debug\5_ProgressBar.pdb

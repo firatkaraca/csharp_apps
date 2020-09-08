@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\10_Captcha_Oluşturma\10_Captcha_Oluşturma\bin\Debug\10_Captcha_Oluşturma.exe.config
+C:\Users\firat\source\repos\10_Captcha_Oluşturma\10_Captcha_Oluşturma\bin\Debug\10_Captcha_Oluşturma.exe
+C:\Users\firat\source\repos\10_Captcha_Oluşturma\10_Captcha_Oluşturma\bin\Debug\10_Captcha_Oluşturma.pdb
+C:\Users\firat\source\repos\10_Captcha_Oluşturma\10_Captcha_Oluşturma\obj\Debug\10_Captcha_Oluşturma.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\10_Captcha_Oluşturma\10_Captcha_Oluşturma\obj\Debug\_10_Captcha_Oluşturma.Form1.resources
+C:\Users\firat\source\repos\10_Captcha_Oluşturma\10_Captcha_Oluşturma\obj\Debug\_10_Captcha_Oluşturma.Properties.Resources.resources
+C:\Users\firat\source\repos\10_Captcha_Oluşturma\10_Captcha_Oluşturma\obj\Debug\10_Captcha_Oluşturma.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\10_Captcha_Oluşturma\10_Captcha_Oluşturma\obj\Debug\10_Captcha_Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\10_Captcha_Oluşturma\10_Captcha_Oluşturma\obj\Debug\10_Captcha_Oluşturma.exe
+C:\Users\firat\source\repos\10_Captcha_Oluşturma\10_Captcha_Oluşturma\obj\Debug\10_Captcha_Oluşturma.pdb

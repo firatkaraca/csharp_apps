@@ -1,0 +1,11 @@
+C:\Users\firat\source\repos\13_FomlarArasıVERiTaşımaÖrnek\13_FomlarArasıVERiTaşımaÖrnek\bin\Debug\13_FomlarArasıVERiTaşımaÖrnek.exe.config
+C:\Users\firat\source\repos\13_FomlarArasıVERiTaşımaÖrnek\13_FomlarArasıVERiTaşımaÖrnek\bin\Debug\13_FomlarArasıVERiTaşımaÖrnek.exe
+C:\Users\firat\source\repos\13_FomlarArasıVERiTaşımaÖrnek\13_FomlarArasıVERiTaşımaÖrnek\bin\Debug\13_FomlarArasıVERiTaşımaÖrnek.pdb
+C:\Users\firat\source\repos\13_FomlarArasıVERiTaşımaÖrnek\13_FomlarArasıVERiTaşımaÖrnek\obj\Debug\13_FomlarArasıVERiTaşımaÖrnek.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\13_FomlarArasıVERiTaşımaÖrnek\13_FomlarArasıVERiTaşımaÖrnek\obj\Debug\_13_FomlarArasıVERiTaşımaÖrnek.Form1.resources
+C:\Users\firat\source\repos\13_FomlarArasıVERiTaşımaÖrnek\13_FomlarArasıVERiTaşımaÖrnek\obj\Debug\_13_FomlarArasıVERiTaşımaÖrnek.Form2.resources
+C:\Users\firat\source\repos\13_FomlarArasıVERiTaşımaÖrnek\13_FomlarArasıVERiTaşımaÖrnek\obj\Debug\_13_FomlarArasıVERiTaşımaÖrnek.Properties.Resources.resources
+C:\Users\firat\source\repos\13_FomlarArasıVERiTaşımaÖrnek\13_FomlarArasıVERiTaşımaÖrnek\obj\Debug\13_FomlarArasıVERiTaşımaÖrnek.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\13_FomlarArasıVERiTaşımaÖrnek\13_FomlarArasıVERiTaşımaÖrnek\obj\Debug\13_FomlarArasıVERiTaşımaÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\13_FomlarArasıVERiTaşımaÖrnek\13_FomlarArasıVERiTaşımaÖrnek\obj\Debug\13_FomlarArasıVERiTaşımaÖrnek.exe
+C:\Users\firat\source\repos\13_FomlarArasıVERiTaşımaÖrnek\13_FomlarArasıVERiTaşımaÖrnek\obj\Debug\13_FomlarArasıVERiTaşımaÖrnek.pdb

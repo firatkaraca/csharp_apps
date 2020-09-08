@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\14_Point_Yapisi\14_Point_Yapisi\bin\Debug\14_Point_Yapisi.exe.config
+C:\Users\firat\source\repos\14_Point_Yapisi\14_Point_Yapisi\bin\Debug\14_Point_Yapisi.exe
+C:\Users\firat\source\repos\14_Point_Yapisi\14_Point_Yapisi\bin\Debug\14_Point_Yapisi.pdb
+C:\Users\firat\source\repos\14_Point_Yapisi\14_Point_Yapisi\obj\Debug\14_Point_Yapisi.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\14_Point_Yapisi\14_Point_Yapisi\obj\Debug\_14_Point_Yapisi.Form1.resources
+C:\Users\firat\source\repos\14_Point_Yapisi\14_Point_Yapisi\obj\Debug\_14_Point_Yapisi.Properties.Resources.resources
+C:\Users\firat\source\repos\14_Point_Yapisi\14_Point_Yapisi\obj\Debug\14_Point_Yapisi.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\14_Point_Yapisi\14_Point_Yapisi\obj\Debug\14_Point_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\14_Point_Yapisi\14_Point_Yapisi\obj\Debug\14_Point_Yapisi.exe
+C:\Users\firat\source\repos\14_Point_Yapisi\14_Point_Yapisi\obj\Debug\14_Point_Yapisi.pdb

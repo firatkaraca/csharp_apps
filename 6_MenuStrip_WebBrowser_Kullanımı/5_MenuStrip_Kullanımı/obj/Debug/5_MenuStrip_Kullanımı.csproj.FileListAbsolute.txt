@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\5_MenuStrip_Kullanımı\5_MenuStrip_Kullanımı\bin\Debug\5_MenuStrip_Kullanımı.exe.config
+C:\Users\firat\source\repos\5_MenuStrip_Kullanımı\5_MenuStrip_Kullanımı\bin\Debug\5_MenuStrip_Kullanımı.exe
+C:\Users\firat\source\repos\5_MenuStrip_Kullanımı\5_MenuStrip_Kullanımı\bin\Debug\5_MenuStrip_Kullanımı.pdb
+C:\Users\firat\source\repos\5_MenuStrip_Kullanımı\5_MenuStrip_Kullanımı\obj\Debug\5_MenuStrip_Kullanımı.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\5_MenuStrip_Kullanımı\5_MenuStrip_Kullanımı\obj\Debug\_5_MenuStrip_Kullanımı.Form1.resources
+C:\Users\firat\source\repos\5_MenuStrip_Kullanımı\5_MenuStrip_Kullanımı\obj\Debug\_5_MenuStrip_Kullanımı.Properties.Resources.resources
+C:\Users\firat\source\repos\5_MenuStrip_Kullanımı\5_MenuStrip_Kullanımı\obj\Debug\5_MenuStrip_Kullanımı.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\5_MenuStrip_Kullanımı\5_MenuStrip_Kullanımı\obj\Debug\5_MenuStrip_Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\5_MenuStrip_Kullanımı\5_MenuStrip_Kullanımı\obj\Debug\5_MenuStrip_Kullanımı.exe
+C:\Users\firat\source\repos\5_MenuStrip_Kullanımı\5_MenuStrip_Kullanımı\obj\Debug\5_MenuStrip_Kullanımı.pdb

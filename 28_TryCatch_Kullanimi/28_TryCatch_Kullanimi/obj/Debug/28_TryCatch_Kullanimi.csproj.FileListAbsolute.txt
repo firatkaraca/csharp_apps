@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\28_TryCatch_Kullanimi\28_TryCatch_Kullanimi\bin\Debug\28_TryCatch_Kullanimi.exe.config
+C:\Users\firat\source\repos\28_TryCatch_Kullanimi\28_TryCatch_Kullanimi\bin\Debug\28_TryCatch_Kullanimi.exe
+C:\Users\firat\source\repos\28_TryCatch_Kullanimi\28_TryCatch_Kullanimi\bin\Debug\28_TryCatch_Kullanimi.pdb
+C:\Users\firat\source\repos\28_TryCatch_Kullanimi\28_TryCatch_Kullanimi\obj\Debug\28_TryCatch_Kullanimi.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\28_TryCatch_Kullanimi\28_TryCatch_Kullanimi\obj\Debug\_28_TryCatch_Kullanimi.Form1.resources
+C:\Users\firat\source\repos\28_TryCatch_Kullanimi\28_TryCatch_Kullanimi\obj\Debug\_28_TryCatch_Kullanimi.Properties.Resources.resources
+C:\Users\firat\source\repos\28_TryCatch_Kullanimi\28_TryCatch_Kullanimi\obj\Debug\28_TryCatch_Kullanimi.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\28_TryCatch_Kullanimi\28_TryCatch_Kullanimi\obj\Debug\28_TryCatch_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\28_TryCatch_Kullanimi\28_TryCatch_Kullanimi\obj\Debug\28_TryCatch_Kullanimi.exe
+C:\Users\firat\source\repos\28_TryCatch_Kullanimi\28_TryCatch_Kullanimi\obj\Debug\28_TryCatch_Kullanimi.pdb

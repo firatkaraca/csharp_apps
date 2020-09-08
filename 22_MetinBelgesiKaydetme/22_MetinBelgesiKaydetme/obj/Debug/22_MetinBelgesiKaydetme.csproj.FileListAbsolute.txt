@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\22_MetinBelgesiKaydetme\22_MetinBelgesiKaydetme\bin\Debug\22_MetinBelgesiKaydetme.exe.config
+C:\Users\firat\source\repos\22_MetinBelgesiKaydetme\22_MetinBelgesiKaydetme\bin\Debug\22_MetinBelgesiKaydetme.exe
+C:\Users\firat\source\repos\22_MetinBelgesiKaydetme\22_MetinBelgesiKaydetme\bin\Debug\22_MetinBelgesiKaydetme.pdb
+C:\Users\firat\source\repos\22_MetinBelgesiKaydetme\22_MetinBelgesiKaydetme\obj\Debug\22_MetinBelgesiKaydetme.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\22_MetinBelgesiKaydetme\22_MetinBelgesiKaydetme\obj\Debug\_22_MetinBelgesiKaydetme.Form1.resources
+C:\Users\firat\source\repos\22_MetinBelgesiKaydetme\22_MetinBelgesiKaydetme\obj\Debug\_22_MetinBelgesiKaydetme.Properties.Resources.resources
+C:\Users\firat\source\repos\22_MetinBelgesiKaydetme\22_MetinBelgesiKaydetme\obj\Debug\22_MetinBelgesiKaydetme.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\22_MetinBelgesiKaydetme\22_MetinBelgesiKaydetme\obj\Debug\22_MetinBelgesiKaydetme.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\22_MetinBelgesiKaydetme\22_MetinBelgesiKaydetme\obj\Debug\22_MetinBelgesiKaydetme.exe
+C:\Users\firat\source\repos\22_MetinBelgesiKaydetme\22_MetinBelgesiKaydetme\obj\Debug\22_MetinBelgesiKaydetme.pdb

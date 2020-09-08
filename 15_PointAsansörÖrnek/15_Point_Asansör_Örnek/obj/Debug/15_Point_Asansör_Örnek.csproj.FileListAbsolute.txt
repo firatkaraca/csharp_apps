@@ -1,0 +1,9 @@
+C:\Users\firat\source\repos\15_Point_Asansör_Örnek\15_Point_Asansör_Örnek\bin\Debug\15_Point_Asansör_Örnek.exe.config
+C:\Users\firat\source\repos\15_Point_Asansör_Örnek\15_Point_Asansör_Örnek\bin\Debug\15_Point_Asansör_Örnek.exe
+C:\Users\firat\source\repos\15_Point_Asansör_Örnek\15_Point_Asansör_Örnek\bin\Debug\15_Point_Asansör_Örnek.pdb
+C:\Users\firat\source\repos\15_Point_Asansör_Örnek\15_Point_Asansör_Örnek\obj\Debug\_15_Point_Asansör_Örnek.Form1.resources
+C:\Users\firat\source\repos\15_Point_Asansör_Örnek\15_Point_Asansör_Örnek\obj\Debug\_15_Point_Asansör_Örnek.Properties.Resources.resources
+C:\Users\firat\source\repos\15_Point_Asansör_Örnek\15_Point_Asansör_Örnek\obj\Debug\15_Point_Asansör_Örnek.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\15_Point_Asansör_Örnek\15_Point_Asansör_Örnek\obj\Debug\15_Point_Asansör_Örnek.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\15_Point_Asansör_Örnek\15_Point_Asansör_Örnek\obj\Debug\15_Point_Asansör_Örnek.exe
+C:\Users\firat\source\repos\15_Point_Asansör_Örnek\15_Point_Asansör_Örnek\obj\Debug\15_Point_Asansör_Örnek.pdb

@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\30_MessageBoxParametreli\30_MessageBoxParametreli\bin\Debug\30_MessageBoxParametreli.exe.config
+C:\Users\firat\source\repos\30_MessageBoxParametreli\30_MessageBoxParametreli\bin\Debug\30_MessageBoxParametreli.exe
+C:\Users\firat\source\repos\30_MessageBoxParametreli\30_MessageBoxParametreli\bin\Debug\30_MessageBoxParametreli.pdb
+C:\Users\firat\source\repos\30_MessageBoxParametreli\30_MessageBoxParametreli\obj\Debug\30_MessageBoxParametreli.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\30_MessageBoxParametreli\30_MessageBoxParametreli\obj\Debug\_30_MessageBoxParametreli.Form1.resources
+C:\Users\firat\source\repos\30_MessageBoxParametreli\30_MessageBoxParametreli\obj\Debug\_30_MessageBoxParametreli.Properties.Resources.resources
+C:\Users\firat\source\repos\30_MessageBoxParametreli\30_MessageBoxParametreli\obj\Debug\30_MessageBoxParametreli.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\30_MessageBoxParametreli\30_MessageBoxParametreli\obj\Debug\30_MessageBoxParametreli.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\30_MessageBoxParametreli\30_MessageBoxParametreli\obj\Debug\30_MessageBoxParametreli.exe
+C:\Users\firat\source\repos\30_MessageBoxParametreli\30_MessageBoxParametreli\obj\Debug\30_MessageBoxParametreli.pdb

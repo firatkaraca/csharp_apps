@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28_TryCatch_Kullanimi", "28_TryCatch_Kullanimi\28_TryCatch_Kullanimi.csproj", "{9990D849-FC53-4177-AB7E-859AF99E60CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9990D849-FC53-4177-AB7E-859AF99E60CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9990D849-FC53-4177-AB7E-859AF99E60CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9990D849-FC53-4177-AB7E-859AF99E60CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9990D849-FC53-4177-AB7E-859AF99E60CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {404BC0E4-7370-40C3-A230-9CEF1A9BF5A0}
+	EndGlobalSection
+EndGlobal

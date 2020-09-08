@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\6_Chart_Grafik_kullanımı\6_Chart_Grafik_kullanımı\bin\Debug\6_Chart_Grafik_kullanımı.exe.config
+C:\Users\firat\source\repos\6_Chart_Grafik_kullanımı\6_Chart_Grafik_kullanımı\bin\Debug\6_Chart_Grafik_kullanımı.exe
+C:\Users\firat\source\repos\6_Chart_Grafik_kullanımı\6_Chart_Grafik_kullanımı\bin\Debug\6_Chart_Grafik_kullanımı.pdb
+C:\Users\firat\source\repos\6_Chart_Grafik_kullanımı\6_Chart_Grafik_kullanımı\obj\Debug\6_Chart_Grafik_kullanımı.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\6_Chart_Grafik_kullanımı\6_Chart_Grafik_kullanımı\obj\Debug\_6_Chart_Grafik_kullanımı.Form1.resources
+C:\Users\firat\source\repos\6_Chart_Grafik_kullanımı\6_Chart_Grafik_kullanımı\obj\Debug\_6_Chart_Grafik_kullanımı.Properties.Resources.resources
+C:\Users\firat\source\repos\6_Chart_Grafik_kullanımı\6_Chart_Grafik_kullanımı\obj\Debug\6_Chart_Grafik_kullanımı.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\6_Chart_Grafik_kullanımı\6_Chart_Grafik_kullanımı\obj\Debug\6_Chart_Grafik_kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\6_Chart_Grafik_kullanımı\6_Chart_Grafik_kullanımı\obj\Debug\6_Chart_Grafik_kullanımı.exe
+C:\Users\firat\source\repos\6_Chart_Grafik_kullanımı\6_Chart_Grafik_kullanımı\obj\Debug\6_Chart_Grafik_kullanımı.pdb
